@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Julia Hadja ✨💻</h1>
+<h1 align="left">Hi, I'm Julia Hadja !</h1>
 
 ###
 
